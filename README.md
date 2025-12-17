@@ -25,5 +25,5 @@ Perfect for debugging clipboard interactions, building automation tools, or exte
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/clipboard-monitor-py.git
+   git clone https://github.com/wilson-adhikari/clipboard-monitor-py.git
    cd clipboard-monitor-py
